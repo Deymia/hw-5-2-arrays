@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/
+/out
+/hw-5-2-arrays.iml
